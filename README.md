@@ -5,5 +5,5 @@ It takes 3 input to calculate
 * Annual Interest
 * Duration of the loan (Repayment years)
 
-UI - Bootstrap 5
+UI - Bootstrap 4
 
